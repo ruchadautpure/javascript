@@ -1,2 +1,2 @@
-# react-js-projects
-A code repo of react js projects
+# javascript
+A code repo of js projects
